@@ -1,0 +1,7 @@
+body {
+  background-color: green; }
+
+.shell {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
